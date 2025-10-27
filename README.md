@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ivailo Netzov</h1>
+<h1 align="center">I'm Ivailo Netzov</h1> 
 <h3 align="center">Senior Software Engineer at Vivacom</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img 
