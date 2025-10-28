@@ -1,6 +1,6 @@
 <h1 align="center">I'm Ivailo Netzov</h1> 
 <h3 align="center">Senior Software Engineer at Vivacom</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center;  align-items: center; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=iNetzov&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" 
     alt="GitHub Streak" 
