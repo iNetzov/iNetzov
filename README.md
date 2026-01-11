@@ -16,7 +16,7 @@
 </a>
   <a href="https://github.com/iNetzov">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iNetzov&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iNetzov&layout=compact&langs_count=8&theme=blue&count_private=true"/>
+  <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iNetzov&layout=compact&langs_count=8&theme=blue&count_private=true"/> -->
 </a>
 </div>
 
