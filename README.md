@@ -17,5 +17,13 @@
   <a href="https://github.com/iNetzov">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iNetzov&show_icons=true&theme=red&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=24&custom_title=Inetzov%20Engineering%20Stats"/>
 </a>
+<a href="https://github.com/iNetzov" target="_blank" rel="noopener noreferrer">
+  <img
+    height="200em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iNetzov&theme=github-compact&hide_border=true"
+    alt="iNetzov GitHub Activity Graph"
+  />
+</a>
+  
 </div>
 
